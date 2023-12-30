@@ -1,1 +1,1 @@
-# project-virtual-comic2
+# PRO-C157-Student-Activity
